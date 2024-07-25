@@ -38,4 +38,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito no curso Discover by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
